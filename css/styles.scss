@@ -1,0 +1,61 @@
+/**
+ * The only stylesheet we need. Except for the others.
+ */
+
+@import 'modules/simplegrid';
+@import 'modules/normalize';
+@import url(http://fonts.googleapis.com/css?family=Sanchez:400italic,400);
+
+body {
+  font-size: 16px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  line-height: 1.25em;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Sanchez', serif;
+  line-height: 1.5em;
+}
+
+h1 {
+  color: #659E63;
+  font-size: 4em;
+
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  border-bottom: 1px dotted #CCC;
+}
+
+h3 {
+  border-bottom: 1px solid #CCC;
+}
+
+a {
+  color: #659E63;
+  text-decoration: none;
+
+  &:hover {
+    color: #659E63;
+    text-decoration: underline;
+  }
+}
+
+img {max-width: 100%;}
+
+header {
+  text-align: center;
+}
+
+#content-wrapper {
+  margin: 0 auto;
+  max-width: 840px;
+  padding: 1em;
+  -webkit-box-shadow: 0 0 50px 1px rgba(0,0,0,.1);
+  box-shadow: 0 0 50px 1px rgba(0,0,0,.1);
+}
