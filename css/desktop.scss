@@ -1,0 +1,42 @@
+/**
+ * The only stylesheet we need. Just for the desktop.
+ */
+
+@import "bourbon/bourbon";
+@import "neat/neat";
+
+h1 {
+  font-size: 4em;
+  text-align: center;
+  line-height: 1em;
+}
+
+header {
+
+  h1 {
+    @include span-columns(9);
+  }
+
+  nav {
+    @include span-columns(3);
+    text-align: center;
+    padding: 0;
+
+    .button {
+      margin: 2.75em 0 .25em;
+      width: 49%;
+    }
+
+    .social { width: 23%; }
+  }
+}
+
+.right {float: right; margin: 0 0 0 .5em;}
+
+#content-wrapper {
+  -webkit-box-shadow: 0 0 50px 1px rgba(0,0,0,.1);
+  box-shadow: 0 0 50px 1px rgba(0,0,0,.1);
+
+  .three { @include span-columns(3); }
+  .nine { @include span-columns(9); }
+}

@@ -3,36 +3,42 @@ layout: static
 title: Just the details
 ---
 
-This is really just the boring technical details of Andrew Anderson. Interested in finding out more about me? Take a look at my [About page](http://substratalcode.com) or maybe some of [my photography](http://substratalcode.smugmug.com/).
+This is really just the boring technical details of Andrew Anderson. Interested in finding out [more about me](/)?
 
 ## Skillset
 
-Focused on server side technologies, such as *PHP* and *Ruby on Rails*.
+Focused on server side technologies, such as **Ruby on Rails** and **PHP**.
 
-Capable in browser focused languages, working in *Javascript* with *jQuery* being the primary framework.
-
-Interested and learning about automated testing with tools like *RSpec* and *Capybara*.
+Capable in browser focused languages, working in **Javascript** with **jQuery** as the primary framework.
 
 Primary influencer of adoption of agile methodologies (typically by another name) in current work environment.
 
-Technical support for retail clients through a variety of high profile and high revenue sales.
+Interested and learning about automated testing with tools like **RSpec** and **Capybara**.
+
+Technical support for retail clients through a variety of high profile and high revenue sales, including custom browser programming to accommodate client needs.
 
 ## Accomplishments
 
-Oversaw and implemented the development of several custom content management systems, one of which runs over 30 websites.
+Helped design and primarily developed several custom content management systems, one of which runs over 30 websites.
 
-Instituted internal workflow tools such as *Git* and *Grunt*, from evangelization to implementation to teaching.
+Instituted internal workflow tools such as **Git** and **Grunt**, from evangelization to implementation to teaching.
 
-Developed conference information application for iPads utilizing HTML/JS. Application abilities included schedule, slide synchronization, and video streaming.
+Development of custom applications for clients, including a native iOS application and a conference information app. The conference app included synchronized slide sharing setup and video streaming.
+
+Worked with multiple API systems including creating Ruby wrappers.
+
+Developed a website management application in Adobe Air.
+
+Development and implementation of website from incredibly detailed to mobile-first designs.
+
+Conversion of existing sites from CSS2 to mobile-first responsive with scattered CSS3.
 
 Created design guide and cues for a small business, integrated cues into multiple Wordpress-based websites. (Don't hire me for design, by the way.)
-
-Implemented an API wrapper in Ruby: [campminder-ruby](https://bitbucket.org/ronningendesign/campminder-ruby).
 
 ## Education
 
 1. 2004-2006, **Associates Degree in Information Systems Technology**, Wytheville Community College
-2. 2006-2006, **Bachelor's Degree in Computer Science**, Old Dominion University
+2. 2006-2009, **Bachelor's Degree in Computer Science**, Old Dominion University
 
 ## Work History
 
