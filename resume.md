@@ -19,21 +19,23 @@ Technical support for retail clients through a variety of high profile and high 
 
 ## Accomplishments
 
-Helped design and primarily developed several custom content management systems, one of which runs over 30 websites.
+Influenced design and was primary developer for several custom content management systems, [one](http://www.websitesthatdostuff.com/typewriter) of which runs over 30 websites.
 
-Instituted internal workflow tools such as **Git** and **Grunt**, from evangelization to implementation to teaching.
+Instituted internal workflow tools such as **Git** and **Grunt**, from evangelization to implementation to instruction.
 
 Development of custom applications for clients, including a native iOS application and a conference information app. The conference app included synchronized slide sharing setup and video streaming.
 
-Worked with multiple API systems including creating Ruby wrappers.
+Familiar with several variaties of API interfaces from SOAP to JSON, including creating Ruby wrappers.
 
 Developed a website management application in Adobe Air.
 
-Development and implementation of website from incredibly detailed to mobile-first designs.
+Implementation of website designs from a mobile first perspective.
 
-Conversion of existing sites from CSS2 to mobile-first responsive with scattered CSS3.
+Conversion of existing sites from inflexible CSS2 layouts to responsive layouts with scattered CSS3.
 
 Created design guide and cues for a small business, integrated cues into multiple Wordpress-based websites. (Don't hire me for design, by the way.)
+
+Deployed and maintained applications across a variety of environments, including [Heroku](http://heroku.com), [Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/), and custom VPS instances using Continuous Integration and Continuous Deployment systems such as [Codeship](https://codeship.com/). 
 
 ## Education
 

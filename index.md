@@ -9,16 +9,21 @@ I like to write code. And take pictures. And read books. And drive around the co
 
 In 2012, the most wonderful lady in the world [agreed to marry](http://www.meandthegeek.com) this geek. In 2013, we had our cute little daughter, and in 2015 we're expecting our next child.
 
+### Recent Projects
+
+- [CampMinder API - Ruby Wrapper](http://bitbucket.org/ronningendesign/campminder-ruby) (with [Ronningen Design](http://www.websitesthatdostuff.com))
+- [Telegraph](http://gotelegraph.com/) (with [Ronningen Design](http://www.websitesthatdostuff.com))
+- [Reactions - WIP](https://github.com/GimliLongBow/Reactions)
+
 ### My Favorite Things
 
-- [Ruby](http://thoughtbot.com/)
+- [Ruby](http://ruby-lang.org/)
 - [Ruby on Rails](http://rubyonrails.org/)
 - [Sublime Text](http://www.sublimetext.com/)
 - OS X
 - Good designs & great typography
 - The Reformation
 - Working from home
-
 
 ### Influences
 
