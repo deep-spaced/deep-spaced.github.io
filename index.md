@@ -5,23 +5,25 @@ title: Substratal Code
 
 <img src="/images/andrew.jpg" class="right" />
 
-I like to write code. And take pictures. And read books. And drive around the country. And doing things to make life easier.
+I like to [write code](https://github.com/GimliLongBow). And [take pictures](http://substratalcode.smugmug.com/). And [read books](https://www.goodreads.com/user/show/36469128-andrew-anderson). And drive around the country. And doing things to make life easier.
 
-In 2012, the most wonderful lady in the world [agreed to marry](http://www.meandthegeek.com) this geek. In 2013, we had our cute little daughter, and in 2015 we're expecting our next child.
+In 2012, the most wonderful lady in the world [agreed to marry](http://www.meandthegeek.com) this geek. In 2013, we had our cute little daughter, and in 2015 our fun little son was born. Next up? Who knows!?!?
 
 ### Recent Projects
 
 - [CampMinder API - Ruby Wrapper](http://bitbucket.org/ronningendesign/campminder-ruby) (with [Ronningen Design](http://www.websitesthatdostuff.com))
+- [CampMinder API - Elixir Wrapper](https://github.com/GimliLongBow/campminder-elixir)
 - [Telegraph](http://gotelegraph.com/) (with [Ronningen Design](http://www.websitesthatdostuff.com))
-- [Reactions - WIP](https://github.com/GimliLongBow/Reactions)
+- Typewriter 2
 
 ### My Favorite Things
 
+- [Elixir](http://elixir-lang.org/)
 - [Ruby](http://ruby-lang.org/)
 - [Ruby on Rails](http://rubyonrails.org/)
 - [Sublime Text](http://www.sublimetext.com/)
 - OS X
-- Good designs & great typography
+- Great designs & good typography
 - The Reformation
 - Working from home
 
@@ -36,7 +38,7 @@ We are more than the sum of our experiences, but probably not less. Here are som
 - [Agile practices](http://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction/dp/193796504X/)
 - [John Williams](http://www.jwfan.com/?page_id=132)
 - [Galen Rowell](http://www.toddskinner.com/portal/Galen/Gallery_8.htm)
-- [Thoughtbot](http://thoughtbot.com/)
+- [thoughtbot](http://thoughtbot.com/)
 - [Android](http://www.android.com/)
 
 

@@ -7,7 +7,7 @@ This is really just the boring technical details of Andrew Anderson. Interested 
 
 ## Skillset
 
-Focused on server side technologies, such as **Ruby on Rails** and **PHP**.
+Focused on server side technologies, such as **Ruby on Rails** and **Elixir**.
 
 Capable in browser focused languages, working in **Javascript** with **jQuery** as the primary framework.
 
