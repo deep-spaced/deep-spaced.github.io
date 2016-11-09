@@ -3,7 +3,7 @@ layout: static
 title: Substratal Code
 ---
 
-<img src="/images/andrew.jpg" class="right" />
+<img src="/images/family.jpg" class="full" />
 
 I like to [write code](https://github.com/GimliLongBow). And [take pictures](http://substratalcode.smugmug.com/). And [read books](https://www.goodreads.com/user/show/36469128-andrew-anderson). And drive around the country. And doing things to make life easier.
 
@@ -14,14 +14,13 @@ In 2012, the most wonderful lady in the world [agreed to marry](http://www.meand
 - [CampMinder API - Ruby Wrapper](http://bitbucket.org/ronningendesign/campminder-ruby) (with [Ronningen Design](http://www.websitesthatdostuff.com))
 - [CampMinder API - Elixir Wrapper](https://github.com/GimliLongBow/campminder-elixir)
 - [Telegraph](http://gotelegraph.com/) (with [Ronningen Design](http://www.websitesthatdostuff.com))
-- Typewriter 2
+- Typewriter
 
 ### My Favorite Things
 
-- [Elixir](http://elixir-lang.org/)
-- [Ruby](http://ruby-lang.org/)
-- [Ruby on Rails](http://rubyonrails.org/)
-- [Sublime Text](http://www.sublimetext.com/)
+- [Elixir](http://elixir-lang.org/) and [Phoenix](http://www.phoenixframework.org/)
+- [Ruby](http://ruby-lang.org/) and [Ruby on Rails](http://rubyonrails.org/)
+- [Spacemacs](http://spacemacs.org/)
 - OS X
 - Great designs & good typography
 - The Reformation

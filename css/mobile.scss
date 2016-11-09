@@ -30,6 +30,9 @@ h4 {
 
 img {
   margin: 0 auto;
+  max-width: 100%;
+
+  &.full { width: 100%; }
 }
 
 a {
@@ -42,7 +45,6 @@ a {
   }
 }
 
-img {max-width: 100%;}
 
 header {
   @include outer-container;
