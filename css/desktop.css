@@ -38,19 +38,17 @@ header nav {
   float: right;
   margin: 0 0 0 .5em; }
 
-#content-wrapper {
-  max-width: 50em; }
-  #content-wrapper .three {
-    float: left;
-    display: block;
-    margin-right: 2.3576515979%;
-    width: 23.2317613015%; }
-    #content-wrapper .three:last-child {
-      margin-right: 0; }
-  #content-wrapper .nine {
-    float: left;
-    display: block;
-    margin-right: 2.3576515979%;
-    width: 74.4105871005%; }
-    #content-wrapper .nine:last-child {
-      margin-right: 0; }
+#content-wrapper .three {
+  float: left;
+  display: block;
+  margin-right: 2.3576515979%;
+  width: 23.2317613015%; }
+  #content-wrapper .three:last-child {
+    margin-right: 0; }
+#content-wrapper .nine {
+  float: left;
+  display: block;
+  margin-right: 2.3576515979%;
+  width: 74.4105871005%; }
+  #content-wrapper .nine:last-child {
+    margin-right: 0; }

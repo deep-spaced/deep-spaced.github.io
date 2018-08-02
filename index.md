@@ -5,7 +5,7 @@ title: Andrew Anderson
 
 <img src="/images/family.jpg" class="full" />
 
-I like to [write code](https://github.com/deep-spaced). And [take pictures](https://substratalcode.smugmug.com/). And [read books](https://www.goodreads.com/user/show/36469128-andrew-anderson). And drive around the country. And doing things to make life easier.
+Hi. I'm Andrew Anderson and I like to [write code](https://github.com/deep-spaced). And [take pictures](https://substratalcode.smugmug.com/). And [read books](https://www.goodreads.com/user/show/36469128-andrew-anderson). And drive around the country. And doing things to make life easier.
 
 In 2012, the most wonderful lady in the world [agreed to marry](http://www.meandthegeek.com) this geek. We then had a lot of kids (with more on the way). Next up? Who knows!?!?
 

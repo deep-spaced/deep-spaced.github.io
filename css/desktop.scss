@@ -34,8 +34,6 @@ header {
 .right {float: right; margin: 0 0 0 .5em;}
 
 #content-wrapper {
-  max-width: 50em;
-
   .three { @include span-columns(3); }
   .nine { @include span-columns(9); }
 }

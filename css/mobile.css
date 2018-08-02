@@ -297,6 +297,8 @@ header {
   max-width: 68em;
   margin-left: auto;
   margin-right: auto;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.1);
+  max-width: 50em;
   padding: 0 2em 2em; }
   #content-wrapper:after {
     content: "";
