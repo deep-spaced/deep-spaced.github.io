@@ -2,7 +2,7 @@
 layout: static
 title: Just the details!
 ---
-#### SKILLS
+### SKILLS
 
 Web developer with a varied skillset, from custom content management systems to front end development to systems automation. Further interests include testing, toolset automation, and helpful workflow methodologies.
 
