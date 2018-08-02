@@ -6,24 +6,24 @@
 @import "neat/neat";
 
 h1 {
-  font-size: 4em;
-  text-align: left;
-  line-height: 1em;
+  font-size: 3em;
+  line-height: 1.25;
 }
 
 header {
 
   h1 {
-    @include span-columns(9);
+    @include span-columns(8);
+    text-align: left;
   }
 
   nav {
-    @include span-columns(3);
+    @include span-columns(4);
     text-align: center;
     padding: 0;
 
     .button {
-      margin: 2.75em 0 .25em;
+      margin: 1em 0 .25em;
       width: 49%;
     }
 
@@ -34,8 +34,7 @@ header {
 .right {float: right; margin: 0 0 0 .5em;}
 
 #content-wrapper {
-  -webkit-box-shadow: 0 0 50px 1px rgba(0,0,0,.1);
-  box-shadow: 0 0 50px 1px rgba(0,0,0,.1);
+  max-width: 50em;
 
   .three { @include span-columns(3); }
   .nine { @include span-columns(9); }

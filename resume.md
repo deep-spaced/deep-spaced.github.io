@@ -1,63 +1,51 @@
 ---
 layout: static
-title: Just the details
+title: Just the details!
 ---
+## SKILLS
 
-This is really just the boring technical details of Andrew Anderson. Interested in finding out [more about me](/)?
+Web developer with a varied skillset, from custom content management systems to front end development to systems automation. Further interests include testing, toolset automation, and helpful workflow methodologies.
 
-## Skillset
+## TECHNOLOGY
 
-Focused on server side technologies, such as **Ruby on Rails** and **Elixir**.
+AWS | Let’s Encrypt | Ruby on Rails | RSpec | Cypress | JavaScript | Sass | Grunt | Elixir | Netlify | Heroku | Postgres | VS Code | Spacemacs | Agile
 
-Capable in browser focused languages, working in **Javascript** with **jQuery** as the primary framework.
+## EXPERIENCE
 
-Primary influencer of adoption of agile methodologies (typically by another name) in current work environment.
+**Ronningen Design, Hendersonville NC — Lead Web Developer**
+_2008 - PRESENT_
 
-Interested and learning about automated testing with tools like **RSpec** and **Capybara**.
+* Primary developer of two multi-tenant content management systems which combined host 50+ websites.
+* Built a system to automatically generate, renew, and deploy Let’s Encrypt certificates.
+* Lead technical development of projects communicating directly with clients.
+* Lead development of marketing products.
+* Developed API wrappers for camp management systems.
+* Encouraged best practices in project management, developer workflows, and tool selection.
+* Managed hosting across multiple providers (AWS, Heroku, etc) including multiple types of servers.
+* Built a native iOS application for video delivery.
+* Created consistently rendered sites from high quality mockups.
+* Converted sites from desktop-only to fully responsive.
+* Deployed a multiple screen video/photography solution.
+* Supported clients through a variety of technical problems from email to computer issues.
 
-Technical support for retail clients through a variety of high profile and high revenue sales, including custom browser programming to accommodate client needs.
+**Substratal Code, Hendersonville NC — Contract Developer**
+_2008 - 2011_
 
-## Accomplishments
+* Created and ran a LLC, communicating, managing, and developing projects.
+* Built a custom iOS application delivering conference information, scheduling, and communication.
+* Created multiple websites using Wordpress including minor branding work.
 
-Influenced design and was primary developer for several custom content management systems, [one](http://www.websitesthatdostuff.com/typewriter) of which runs over 30 websites.
+## EDUCATION
 
-Instituted internal workflow tools such as **Git** and **Grunt**, from evangelization to implementation to instruction.
+**Old Dominion University, Norfolk VA — BS in Computer Science**
+_2006 - 2009_
 
-Development of custom applications for clients, including a native iOS application and a conference information app. The conference app included synchronized slide sharing setup and video streaming.
+Graduated with honors.
 
-Familiar with several variaties of API interfaces from SOAP to JSON, including creating Ruby wrappers.
+**Wytheville Community College, Wytheville VA — Associate’s in Information Systems Technology**
+_2004 - 2006_
 
-Developed a website management application in Adobe Air.
-
-Implementation of website designs from a mobile first perspective.
-
-Conversion of existing sites from inflexible CSS2 layouts to responsive layouts with scattered CSS3.
-
-Created design guide and cues for a small business, integrated cues into multiple Wordpress-based websites. (Don't hire me for design, by the way.)
-
-Deployed and maintained applications across a variety of environments, including [Heroku](http://heroku.com), [Elastic Beanstalk](http://aws.amazon.com/elasticbeanstalk/), and custom VPS instances using Continuous Integration and Continuous Deployment systems such as [Codeship](https://codeship.com/). 
-
-## Education
-
-1. 2004-2006, **Associates Degree in Information Systems Technology**, Wytheville Community College
-2. 2006-2009, **Bachelor's Degree in Computer Science**, Old Dominion University
-
-## Work History
-
-1. 2005-2006 **Intern**, IT Department of Wytheville Community College
-3. 2008-2011 **Contract Developer**, Various
-2. 2008-2014 **Developer & All Around Geek**, Ronningen Design
-
-
-## Favorites, Specialities, & Interests
-
-1. Clean code, whether it be Ruby, Javascript, or even Sass.
-2. Digging deep into a problem to make something amazing happen.
-3. Setting up or creating tools that make life easier.
-4. Working with people passionate about solutions to help people.
-5. Great photos of great places.
-6. My family.
-7. A beautiful countryside and a winding road.
+Graduated with honors. Interned with IT department and held a work-study job for most semesters.
 
 ## References
 
