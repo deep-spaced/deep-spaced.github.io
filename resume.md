@@ -28,6 +28,8 @@ _2008 - PRESENT_
 * Deployed a multiple screen video/photography solution.
 * Supported clients through a variety of technical problems from email to computer issues.
 
+---
+
 **Substratal Code, Hendersonville NC — Contract Developer**
 _2008 - 2011_
 
@@ -41,6 +43,8 @@ _2008 - 2011_
 _2006 - 2009_
 
 Graduated with honors.
+
+---
 
 **Wytheville Community College, Wytheville VA — Associate’s in Information Systems Technology**
 _2004 - 2006_
