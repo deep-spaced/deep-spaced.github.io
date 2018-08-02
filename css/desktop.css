@@ -7,51 +7,50 @@
   box-sizing: border-box; }
 
 h1 {
-  font-size: 4em;
-  line-height: 1em; }
+  font-size: 3em;
+  line-height: 1.25; }
 
 header h1 {
   float: left;
   display: block;
-  margin-right: 2.35765%;
-  width: 74.41059%; }
+  margin-right: 2.3576515979%;
+  width: 65.8807828007%;
+  text-align: left; }
   header h1:last-child {
     margin-right: 0; }
 header nav {
   float: left;
   display: block;
-  margin-right: 2.35765%;
-  width: 23.23176%;
+  margin-right: 2.3576515979%;
+  width: 31.7615656014%;
   text-align: center;
   padding: 0; }
   header nav:last-child {
     margin-right: 0; }
   header nav .button {
-    margin: 2.75em 0 .25em;
+    margin: 1em 0 .25em;
     width: 49%; }
   header nav .social {
-    width: 23%; }
+    width: 23%;
+    text-align: right; }
 
 .right {
   float: right;
   margin: 0 0 0 .5em; }
 
 #content-wrapper {
-  -webkit-box-shadow: 0 0 50px 1px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 0 50px 1px rgba(0, 0, 0, 0.1); }
+  max-width: 50em; }
   #content-wrapper .three {
     float: left;
     display: block;
-    margin-right: 2.35765%;
-    width: 23.23176%; }
+    margin-right: 2.3576515979%;
+    width: 23.2317613015%; }
     #content-wrapper .three:last-child {
       margin-right: 0; }
   #content-wrapper .nine {
     float: left;
     display: block;
-    margin-right: 2.35765%;
-    width: 74.41059%; }
+    margin-right: 2.3576515979%;
+    width: 74.4105871005%; }
     #content-wrapper .nine:last-child {
       margin-right: 0; }
-
-/*# sourceMappingURL=desktop.css.map */

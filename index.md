@@ -1,6 +1,6 @@
 ---
 layout: static
-title: Substratal Code
+title: Andrew Anderson
 ---
 
 <img src="/images/family.jpg" class="full" />
