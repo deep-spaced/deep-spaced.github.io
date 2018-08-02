@@ -8,7 +8,7 @@ Web developer with a varied skillset, from custom content management systems to 
 
 ## TECHNOLOGY
 
-AWS | Let’s Encrypt | Ruby on Rails | RSpec | Cypress | JavaScript | Sass | Grunt | Elixir | Netlify | Heroku | Postgres | VS Code | Spacemacs | Agile
+AWS &#124; Let’s Encrypt &#124; Ruby on Rails &#124; RSpec &#124; Cypress &#124; JavaScript &#124; Sass &#124; Grunt &#124; Elixir &#124; Netlify &#124; Heroku &#124; Postgres &#124; VS Code &#124; Spacemacs &#124; Agile
 
 ## EXPERIENCE
 
