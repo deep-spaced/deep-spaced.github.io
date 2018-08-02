@@ -6,7 +6,7 @@
 @import "neat/neat";
 @import "base/base";
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600,300|Roboto+Slab:400,300,100,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600,300|Roboto+Slab:400,300,100,700|Space+Mono);
 
 body {
   margin: 0;
@@ -16,6 +16,7 @@ body {
 h1 {
   color: $medium-green;
   font-size: 3em;
+  font-family: $monospace;
   text-align: center;
   line-height: 1em;
   padding: .5em 0;
@@ -27,6 +28,8 @@ h3,
 h4 {
   margin:.5em 0;
 }
+
+p { font-family: $roboto-slab; }
 
 img {
   margin: 0 auto;
