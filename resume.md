@@ -4,7 +4,7 @@ title: Just the details!
 ---
 ### SKILLS
 
-Web developer with a varied skillset, from custom content management systems to front end development to systems automation. Further interests include testing, toolset automation, and helpful workflow methodologies.
+Web developer with a varied skill set ranging from custom content management systems to front end development. Further interests include systems and tooling automation, testing, and optimizing workflow methodologies.
 
 ### TECHNOLOGY
 
@@ -15,27 +15,27 @@ AWS &#124; Let’s Encrypt &#124; Ruby on Rails &#124; RSpec &#124; Cypress &#12
 **Ronningen Design, Hendersonville NC — Lead Web Developer**
 _2008 - PRESENT_
 
-* Primary developer of two multi-tenant content management systems which combined host 50+ websites.
-* Built a system to automatically generate, renew, and deploy Let’s Encrypt certificates.
-* Lead technical development of projects communicating directly with clients.
-* Lead development of marketing products.
+* Primary developer of two multi-tenant content management systems hosting 50+ websites.
+* Conceptualized, constructed, and integrated a system to automatically generate, renew, and deploy Let’s Encrypt certificates.
+* Directed technical development of projects communicating directly with clients.
+* Conducted development of marketing products.
 * Developed API wrappers for camp management systems.
-* Encouraged best practices in project management, developer workflows, and tool selection.
-* Managed hosting across multiple providers (AWS, Heroku, etc) including multiple types of servers.
+* Proactive in cultivating best practices in project management, developer workflows, and tool selection.
+* Managed hosting across a variety of providers (AWS, Heroku, etc) including multiple types of servers.
 * Built a native iOS application for video delivery.
 * Created consistently rendered sites from high quality mockups.
-* Converted sites from desktop-only to fully responsive.
-* Deployed a multiple screen video/photography solution.
-* Supported clients through a variety of technical problems from email to computer issues.
+* Converted website designs from desktop-only to fully responsive.
+* Selected and integrated a multiple screen video/photography solution.
+* Supported clients through a variety of scenarios from email setup to computer issues to high volume retail sales.
 
 ---
 
 **Substratal Code, Hendersonville NC — Contract Developer**
 _2008 - 2011_
 
-* Created and ran a LLC, communicating, managing, and developing projects.
+* Created and ran an LLC, communicating, managing, and developing projects.
 * Built a custom iOS application delivering conference information, scheduling, and communication.
-* Created multiple websites using Wordpress including minor branding work.
+* Constructed multiple websites using Wordpress including minor branding work.
 
 ### EDUCATION
 
